@@ -13,7 +13,7 @@
 
 🕵️‍♀️ Ellaiza Mae Baloloy [This is my Facebook Account](https://www.facebook.com/profile.php?id=100009139048502)
 
-#### Acknowledgement 🚀
-This is the 1st activity, dont mind the gaps.
+#### Acknowledgement 
+🚀 This is the 1st activity, dont mind the gaps.
 
 ![pog](https://i1.sndcdn.com/avatars-ypCd5dE5YbGkyF0p-Y59d9w-t500x500.jpg)
