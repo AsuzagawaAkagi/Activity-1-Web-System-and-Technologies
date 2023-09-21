@@ -1,3 +1,4 @@
+![342526569_1166763497348888_341926295757592263_n](https://github.com/AsuzagawaAkagi/Activity-1-Web-System-and-Technologies/assets/71751330/a557f03f-e405-47ec-b97e-bd0f92c1234a)
 # Title 
 🌱 Actvity 1
 ## Description 
