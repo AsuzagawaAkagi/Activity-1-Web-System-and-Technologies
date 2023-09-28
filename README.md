@@ -17,4 +17,4 @@
 #### Acknowledgement 🚀
 This is the 1st activity, dont mind the gaps.
 
-![pog](https://i1.sndcdn.com/avatars-ypCd5dE5YbGkyF0p-Y59d9w-t500x500.jpg)
+![pog](https://images-ext-2.discordapp.net/external/xDNQ651qB0b-nPcS5-aSbu1OW4DiitAVYuHPKfU7Grw/https/media.tenor.com/6Oidwx-65-AAAAPo/tendou-arisu.mp4)
