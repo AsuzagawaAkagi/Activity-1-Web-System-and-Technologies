@@ -1,6 +1,6 @@
 ![269512109-a557f03f-e405-47ec-b97e-bd0f92c1234a-removebg-preview](https://github.com/AsuzagawaAkagi/Activity-1-Web-System-and-Technologies/assets/71751330/462b8c36-5093-4e16-9195-fe6a1a48beb5)
 # Title 
-🌱 [Activity 1](https://asuzagawaakagi.github.io/Activity-1-Web-System-and-Technologies/)
+🌱 [Activity 1](https://asuzagawaakagi.github.io/Activity-1-Web-System-and-Technologies/html)
 ## Description 
 👀 First Activity for Web System and Technologies
 ### Activities 
