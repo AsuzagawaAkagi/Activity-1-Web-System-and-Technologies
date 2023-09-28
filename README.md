@@ -17,4 +17,5 @@
 #### Acknowledgement 🚀
 This is the 1st activity, dont mind the gaps.
 
-![Your GIF Alt Text](https://tenor.com/view/tendou-arisu-gif-16782837472772679648)
+![h](https://tenor.com/view/tendou-arisu-gif-16782837472772679648)
+!<img>(https://tenor.com/view/tendou-arisu-gif-16782837472772679648)
