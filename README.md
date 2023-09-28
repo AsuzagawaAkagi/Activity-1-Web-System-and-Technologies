@@ -17,4 +17,4 @@
 #### Acknowledgement 🚀
 This is the 1st activity, dont mind the gaps.
 
-![pog](https://tenor.com/view/tendou-arisu-gif-16782837472772679648)
+![Your GIF Alt Text](https://example.com/path-to-your-gif.gif)
