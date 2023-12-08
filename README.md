@@ -4,7 +4,7 @@
 ## Description 
 👀 This repository contains the files of activities for Web System and Technologies.
 ### Activities 
-🌟 [Activity 1](https://asuzagawaakagi.github.io/Activity-1-Web-System-and-Technologies/index.html)
+🌟 [Activities Homepage](https://asuzagawaakagi.github.io/Activity-1-Web-System-and-Technologies/index.html)
 #### Members
 - Emmanuelle Morata [Facebook](https://www.facebook.com/ella.erram.12?mibextid=cejktS)
 
